@@ -1,0 +1,8 @@
+# config-repo/application.yml
+custom:
+  app-owner: "tu-equipo"
+  contact: "devops@tuempresa.local"
+
+spring:
+  profiles:
+    active: default

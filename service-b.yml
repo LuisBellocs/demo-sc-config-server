@@ -1,0 +1,3 @@
+# config-repo/service-b.yml
+custom:
+  message: "Servicio B - valor default"

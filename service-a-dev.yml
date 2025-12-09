@@ -1,0 +1,6 @@
+# config-repo/service-a-dev.yml
+custom:
+  message: "Hola desde Config Repo - perfil dev"
+logging:
+  level:
+    root: INFO

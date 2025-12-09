@@ -1,0 +1,7 @@
+# config-repo/service-a.yml
+custom:
+  message: "Hola desde Config Repo - default"
+
+server:
+  servlet:
+    context-path: /api
